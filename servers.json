@@ -1,0 +1,44 @@
+[
+    {
+        "id" : 1,
+        "user": "fawadbpo",
+        "password": "vbfawadbpo",
+        "host": "148.251.139.131",
+        "database": "asterisk"
+    },
+    {
+        "id" : 2,
+        "user": "fawadbpo",
+        "password": "vbfawadbpo",
+        "host": "136.243.45.142",
+        "database": "asterisk"
+    },
+    {
+        "id" : 3,
+        "user": "fawadbpo",
+        "password": "vbfawadbpo",
+        "host": "136.243.48.158",
+        "database": "asterisk"
+    },
+    {
+        "id" : 4,
+        "user": "fawadbpo",
+        "password": "vbfawadbpo",
+        "host": "148.251.178.225",
+        "database": "asterisk"
+    },
+    {
+        "id" : 5,
+        "user": "fawadbpo",
+        "password": "vbfawadbpo",
+        "host": "148.251.77.24",
+        "database": "asterisk"
+    },
+    {
+        "id" : 6,
+        "user": "fawadbpo",
+        "password": "vbfawadbpo",
+        "host": "46.4.52.170",
+        "database": "asterisk"
+    }
+]
